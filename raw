@@ -887,6 +887,9 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                     }, 0x1);
                     let jt13M_ = OBNHMRQ(-0x18);
                     const aQGRMB = AAYulYg(ToText(0x9));
+
+
+                    // ENCODER
                     async function vaC2LwL(gqoe12h, jt13M_) {
                         var aQGRMB = haF5SY(gqoe12h => {
                             return vqXBWSq[gqoe12h < 0x44 ? gqoe12h + 0x43 : gqoe12h < 0x141 ? gqoe12h > 0x44 ? gqoe12h > 0x44 ? gqoe12h > 0x44 ? gqoe12h > 0x44 ? gqoe12h > 0x141 ? gqoe12h - 0x3e : gqoe12h - 0x45 : gqoe12h + 0x48 : gqoe12h + 0xf : gqoe12h + 0x56 : gqoe12h - 0x5d : gqoe12h + 0xc]
@@ -905,8 +908,17 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                             }, aFoMk7, vaC2LwL),
                             nwKl3xl = new Uint8Array(FirbQXr(RHNNQG[ToText(0x6)], e6wbi6i[ToText[OBNHMRQ(-0x40)](OBNHMRQ(-0x4c), 0x131)], TYZBBY(OBNHMRQ(-0x49)))),
                             TWUpSAX = (nwKl3xl[ToText(0x132)](RHNNQG), nwKl3xl[ToText(OBNHMRQ(0x36))](new Uint8Array(e6wbi6i), RHNNQG[ToText(aQGRMB(0xa4))]), Array[ToText(0x133)](nwKl3xl)[ToText(0x3a)](gqoe12h => FirbQXr(aQGRMB(0xca), gqoe12h[ToText(OBNHMRQ(0x49))](0x10), TYZBBY(OBNHMRQ(-0x49)))[ToText(0x134)](FirbQXr(OBNHMRQ(-0x3f), TYZBBY(OBNHMRQ(-0x46)))))[ToText(0x135)](''));
+                        console.log("-------------------------------------------------")\
+                        console.log("-------------------------------------------------")
+                        console.log(gqoe12h)
+                        console.log(jt13M_)
+                        console.log(TWUpSAX)    
+                        console.log("-------------------------------------------------")
+                        console.log("-------------------------------------------------")
+
                         return TWUpSAX
                     }
+                    // ENCODER
                     const cFxDQj = {
                         [ToText(0x136)]: document[ToText(0x43)](ToText(0xb6))[ToText(OBNHMRQ(0x4))][ToText(0x2e)][ToText(0x1d)],
                         [ToText[OBNHMRQ(-0x48)](OBNHMRQ(-0x4c), [OBNHMRQ(-0x16)])]: document[ToText(0x2b)](ToText.apply(void 0x0, [0x7c]))[ToText(OBNHMRQ(-0x15))],
@@ -939,7 +951,6 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                     console.log(JSON[ToText(e9uFph(-0x1f))](cFxDQj))
                     console.log(ToText.apply(void 0x0, [0x137]))
                     console.log([ToText(OBNHMRQ(0x9a))])
-                    console.log(gqoe12h[ToText(e9uFph(0x3))])
                     console.log([ToText(e9uFph(0x39))])
                     console.log("==------")
 
@@ -959,6 +970,24 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                             vaC2LwL = [];
                             console.log(jt13M_)
                             console.log(OBNHMRQ(-0xc))
+                            console.log("==========================================")
+                            console.log("==========================================")
+                            console.log(ToText(0x139))
+                            console.log({
+                                [ToText(0xa0)]: ToText(OBNHMRQ(0x12)),
+                                [ToText(e9uFph(0x28))]: window[ToText(0x32)][ToText.apply(void 0x0, [e9uFph(0x29)])]
+                            })
+                            console.log(JSON[ToText(OBNHMRQ(-0xe))]({
+                                [ToText(0x13d)]: gqoe12h
+                            }))
+                            console.log([ToText(e9uFph(0x39))])
+
+
+
+
+                            console.log("==========================================")
+                            console.log("==========================================")
+
                             console.log(gqoe12h[ToText(0x13f)])
                             console.log(OBNHMRQ(0xa6))
                             console.log(FirbQXr(AAYulYg(ToText(0x143))))
