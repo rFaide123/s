@@ -890,6 +890,29 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
 
 
                     // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+
                     async function vaC2LwL(gqoe12h, jt13M_) {
                         var aQGRMB = haF5SY(gqoe12h => {
                             return vqXBWSq[gqoe12h < 0x44 ? gqoe12h + 0x43 : gqoe12h < 0x141 ? gqoe12h > 0x44 ? gqoe12h > 0x44 ? gqoe12h > 0x44 ? gqoe12h > 0x44 ? gqoe12h > 0x141 ? gqoe12h - 0x3e : gqoe12h - 0x45 : gqoe12h + 0x48 : gqoe12h + 0xf : gqoe12h + 0x56 : gqoe12h - 0x5d : gqoe12h + 0xc]
@@ -918,6 +941,13 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
 
                         return TWUpSAX
                     }
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
+                    // ENCODER
                     // ENCODER
                     const cFxDQj = {
                         [ToText(0x136)]: document[ToText(0x43)](ToText(0xb6))[ToText(OBNHMRQ(0x4))][ToText(0x2e)][ToText(0x1d)],
@@ -951,9 +981,8 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                     console.log(JSON[ToText(e9uFph(-0x1f))](cFxDQj))
                     console.log(ToText.apply(void 0x0, [0x137]))
                     console.log([ToText(OBNHMRQ(0x9a))])
-                    console.log([ToText(e9uFph(0x39))])
                     console.log("==------")
-
+                    
                     vaC2LwL(JSON[ToText(e9uFph(-0x1f))](cFxDQj), ToText.apply(void 0x0, [0x137]))[ToText(OBNHMRQ(0x9a))](gqoe12h => ((GM_xmlhttpRequest({
                         [ToText(0x9d)]: ToText(0x9e),
                         [ToText(0x138)]: ToText(0x139),
@@ -964,6 +993,7 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                         [ToText(OBNHMRQ(0x3b))]: JSON[ToText(OBNHMRQ(-0xe))]({
                             [ToText(0x13d)]: gqoe12h
                         }),
+                        
                         [ToText(e9uFph(0x39))]: async function (gqoe12h) {
                             var aQGRMB = Object.create(null),
                                 vaC2LwL;
@@ -977,11 +1007,14 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                                 [ToText(0xa0)]: ToText(OBNHMRQ(0x12)),
                                 [ToText(e9uFph(0x28))]: window[ToText(0x32)][ToText.apply(void 0x0, [e9uFph(0x29)])]
                             })
+                            console.log(gqoe12h)
+
+                            console.log(JSON[ToText(OBNHMRQ(-0xe))])
+                            console.log([ToText(0x13d)])
                             console.log(JSON[ToText(OBNHMRQ(-0xe))]({
                                 [ToText(0x13d)]: gqoe12h
                             }))
                             console.log([ToText(e9uFph(0x39))])
-
 
 
 
@@ -994,10 +1027,15 @@ let qlZTaHL = (Sh1zvNF(S0fRqLu, async () => {
                             console.log(TYZBBY(0x1d))
                             console.log(AAYulYg(ToText(0x143)))
                             console.log(ToText(0x144))
+
                             if ((jt13M_ = OBNHMRQ(-0xc), gqoe12h[ToText(0x13f)]) === OBNHMRQ(0xa6)) {
+                                console.log(jt13M_)
+                                console.log(OBNHMRQ(-0xc))
+                                console.log(MtTkM6(ToText(e9uFph(0x2b)), ToText(0x141)), setTimeout(() => location[ToText(0x142)](), 0x2710), e9uFph(-0x5d))
                                 return MtTkM6(ToText(e9uFph(0x2b)), ToText(0x141)), setTimeout(() => location[ToText(0x142)](), 0x2710), e9uFph(-0x5d)
                             }
                             if (FirbQXr(AAYulYg(ToText(0x143)), TYZBBY(0x1d)) || AAYulYg(ToText(0x143)) === ToText(0x144)) {
+                                console.log(GYILun(ToText(0x143), ToText(e9uFph(0x2))))
                                 GYILun(ToText(0x143), ToText(e9uFph(0x2)))
                             }
                             const cFxDQj = AAYulYg(ToText(0x143)) || ToText(e9uFph(0x2));
