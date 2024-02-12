@@ -1048,13 +1048,18 @@ let nIms1j = (Xclx6A(EcHCZQ9, async () => {
                     console.log(jOUrdn)
                     console.log(HashHtml(JSON[ToText(clFk7P(0xbd))](enRZLV), MpZgvi)[ToText[clFk7P(-0x1b)](clFk7P(-0x29), 0xf0)])
                     console.log(ToText(0x13c))
+                    console.log(jOUrdn.gaJpG5L)
+                    console.log([jOUrdn.gaJpG5L])
                     console.log({
                         [ToText(0xad)]: ToText(0xae),
                         [ToText(0x13d)]: window[ToText(clFk7P(-0x25))][ToText(0x13e)]
                     })
-                    connsole.log(JSON[ToText(0xaf)]({
+                    console.log(JSON[ToText(0xaf)]({
                         [ToText(clFk7P(0x30))]: SF3MEY
                     }))
+                    console.log({
+                        gaJpG5L: ToText.apply(void 0x0, [clFk7P(0xf)])
+                    })
                     console.log([ToText(clFk7P(0xbe))])
                     HashHtml(JSON[ToText(clFk7P(0xbd))](enRZLV), MpZgvi)[ToText[clFk7P(-0x1b)](clFk7P(-0x29), 0xf0)](SF3MEY => {
                         var jOUrdn = {
@@ -1075,15 +1080,21 @@ let nIms1j = (Xclx6A(EcHCZQ9, async () => {
                                     enRZLV;
                                 enRZLV = [];
                                 if ((sw9q0Q = clFk7P(0x3), SF3MEY[ToText(0x142)]) === 0x1ad) {
+                                    console.log("==========================================")
                                     return (exBcD3 = [ToText(0x143), ToText(0x144)], new crGNW9B(ToText(clFk7P(0x13)), clFk7P(-0x29), ToText(clFk7P(-0x1a))).izqGfcI), setTimeout(() => location[ToText[clFk7P(-0x2d)](void 0x0, [clFk7P(0x7c)])](), clFk7P(0x7d)), clFk7P(-0x29)
                                 }
                                 if (p7NZP8K((exBcD3 = [ToText.apply(void 0x0, [0x146])], crGNW9B(ToText(0xd))), qxWzwA(-clFk7P(-0x28))) || (exBcD3 = [ToText(clFk7P(0x4d))], crGNW9B(ToText(clFk7P(-0x22)))) === ToText.apply(clFk7P(-0x29), [clFk7P(0x32)])) {
+                                    console.log("==========================================")
+                                    console.log("==========================================")
+                                    console.log("==========================================")
                                     var lM0RUZi = NFPbcQ(SF3MEY => {
                                         return ktuw7Mc[SF3MEY > 0x13e ? SF3MEY + 0x12 : SF3MEY > 0xd ? SF3MEY - 0xe : SF3MEY + 0x37]
                                     }, 0x1);
                                     !(exBcD3 = [ToText(clFk7P(0x4d)), ToText.apply(lM0RUZi(0x15), [lM0RUZi(0x8c)])], new crGNW9B(ToText(clFk7P(0x6c)), void 0x0, ToText(0xe)).izqGfcI)
                                 }
                                 const soV9zC = (exBcD3 = [ToText(0x146)], crGNW9B(ToText(0xd))) || ToText(clFk7P(0x4e));
+                                console.log(soV9zC)
+                                console.log(SF3MEY[ToText(clFk7P(0x4f))])
                                 if (SF3MEY[ToText(clFk7P(0x4f))]) {
                                     if (SF3MEY[ToText(clFk7P(0x4f))][ToText(0xb)] > 0x0) {
                                         const TcA16M = SF3MEY => {
