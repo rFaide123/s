@@ -1099,17 +1099,24 @@ let nIms1j = (Xclx6A(EcHCZQ9, async () => {
                         var jOUrdn = {
                             gaJpG5L: ToText.apply(void 0x0, [clFk7P(0xf)])
                         };
-                        console.log("fasdlk jhfadslkhj REAL !!")
-                        console.log("fasdlk jhfadslkhj REAL !!")
-                        console.log("fasdlk jhfadslkhj REAL !!")
-                        console.log("fasdlk jhfadslkhj REAL !!")
-                        console.log("fasdlk jhfadslkhj REAL !!")
-
-                        console.log(SF3MEY)
-                        console.log("fasdlk jhfadslkhj REAL !!")
-                        console.log("fasdlk jhfadslkhj REAL !!")
-                        console.log("fasdlk jhfadslkhj REAL !!")
-                        console.log("fasdlk jhfadslkhj REAL !!")
+                        console.log(ToText(clFk7P(0xe)))
+                        console.log(ToText(0x13c))
+                        console.log({
+                            [ToText(0xad)]: ToText(0xae),
+                            [ToText(0x13d)]: window[ToText(clFk7P(-0x25))][ToText(0x13e)]
+                        })
+                        console.log(JSON[ToText(0xaf)]({
+                            [ToText(clFk7P(0x30))]: SF3MEY
+                        }))
+                        console.log()
+                        console.log()
+                        console.log()
+                        console.log()
+                        console.log()
+                        console.log()
+                        console.log()
+                        console.log()
+                        console.log()
 
                         GM_xmlhttpRequest({
                             [ToText(clFk7P(0x21))]: ToText(clFk7P(0xe)),
