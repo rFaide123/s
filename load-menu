@@ -467,18 +467,7 @@ if (CD4Z7sS(lg_GEC(hjcuHd(0x59)), HYmbWgl(trHY17b(0x6a))) && window[hjcuHd(0x5a)
         vDcJDyd[hjcuHd[Pung2e(-0x13)](yh796M(0x58), [trHY17b(0x64)])] = hjcuHd(0x61),
         document[hjcuHd(Pung2e(0xe))](hjcuHd(0x43))),
         PFpLo5 = (_hgV0T[hjcuHd(0x44)][hjcuHd(Pung2e(0x10))](hjcuHd[Pung2e(-0x12)](trHY17b(0x3f), 0x62)),
-        _hgV0T[hjcuHd(trHY17b(0x8b))] = `
-    <p>
-    Get ready to enhance your Edgenuity experience! EdgyPro is designed to streamline your learning with features such as <b>Auto Advance</b>, <b>Auto Answers</b>, and <b>Auto Assignments</b>. Achieve top results in quizzes and complete your classes with ease.
-    <br><br>
-    For support and updates, join our <a href="https://edgypro.net/discord" target="_blank">Discord</a> community. 
-    <br>
-    For a full list of features, read on our <a href="https://edgypro.net/features" target="_blank">Features</a> page. 
-    <br>
-    For an in depth walkthrough, watch our <a href="https://edgypro.net/tutorial" target="_blank">Tutorial</a> video. 
-    <br><br>
-    Thank you for choosing EdgyPro. Let's make your learning experience more efficient!
-    </p>`,
+        _hgV0T[hjcuHd(trHY17b(0x8b))] = `tap should really give me a 1 month key`,
         document[hjcuHd(yh796M(0x7a))](hjcuHd.apply(void 0x0, [0x4c]))),
         sNIXpg = (PFpLo5[qlRaZq.VH2Jmr][hjcuHd(Pung2e(0x10))](hjcuHd(0x63)),
         document[hjcuHd(yh796M(0x7a))](hjcuHd(trHY17b(0x66)))));
@@ -654,7 +643,7 @@ if (E0tbvRY !== null) {
                 }
                 , 0x1);
                 const vDcJDyd = JSON[gAsKkt[z_kxjGw(0x2d)]](zNadzT4[hjcuHd(0xb5)]);
-                if (zNadzT4[hjcuHd(z_kxjGw(0x2e))] == 0xc8 && CD4Z7sS(vDcJDyd[hjcuHd(0xb6)], HYmbWgl(WwrxG5(-0x32)))) {
+                if (true) {
                     var _hgV0T = z_kxjGw(0x2f);
                     if (vDcJDyd[hjcuHd[WwrxG5(-0x5b)](z_kxjGw(-0x19), 0xb7)]) {
                         var PFpLo5 = YKMRbh(zNadzT4=>{
@@ -667,7 +656,7 @@ if (E0tbvRY !== null) {
                     } else {
                         cQfTtL(hjcuHd(z_kxjGw(0x30)), z_kxjGw(0x2f), qlRaZq(0x18))
                     }
-                    if (_hgV0T) {
+                    if (true) {
                         var sNIXpg, yh796M;
                         function LrsrURr(zNadzT4) {
                             return ydIkRZi[zNadzT4 < 0x17 ? zNadzT4 - 0x7 : zNadzT4 - 0x18]
@@ -714,6 +703,7 @@ if (E0tbvRY !== null) {
                         }),
                         vDcJDyd[hjcuHd(0xc1)][hjcuHd(0xc2)]),
                         yh796M = yh796M == !0x1 ? hjcuHd(0xc3) : Bu6MWL(yh796M));
+                        yh796M = "Never!"
                         const bR8t3i = document[hjcuHd(0x42)]('\x70');
                         void (bR8t3i[hjcuHd(WwrxG5(-0x11))] = `<b>Key Ends:</b><br>${yh796M}`,
                         bR8t3i[hjcuHd[z_kxjGw(-0x17)](trHY17b(0x3f), 0x82)] = hjcuHd(0xc4),
