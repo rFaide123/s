@@ -644,6 +644,7 @@ if (E0tbvRY !== null) {
                 , 0x1);
                 const vDcJDyd = JSON[gAsKkt[z_kxjGw(0x2d)]](zNadzT4[hjcuHd(0xb5)]);
                 if (true) {
+                    console.log("GOT HERE!")
                     var _hgV0T = z_kxjGw(0x2f);
                     if (vDcJDyd[hjcuHd[WwrxG5(-0x5b)](z_kxjGw(-0x19), 0xb7)]) {
                         var PFpLo5 = YKMRbh(zNadzT4=>{
@@ -657,6 +658,7 @@ if (E0tbvRY !== null) {
                         cQfTtL(hjcuHd(z_kxjGw(0x30)), z_kxjGw(0x2f), qlRaZq(0x18))
                     }
                     if (true) {
+                        console.log("2x champ ong")
                         var sNIXpg, yh796M;
                         function LrsrURr(zNadzT4) {
                             return ydIkRZi[zNadzT4 < 0x17 ? zNadzT4 - 0x7 : zNadzT4 - 0x18]
@@ -924,6 +926,7 @@ j3qtt3[hjcuHd(0x51)] = ()=>{
     }
     , 0x1);
     if (YyXk5vG[hjcuHd(0xcd)][hjcuHd[ZFrQaz(0x58)](ZFrQaz(0x57), [ZFrQaz(0xb8)])]()[hjcuHd(0xe)] == ZFrQaz(0xc0)) {
+        console.log(YyXk5vG[hjcuHd(0xcd)][hjcuHd[ZFrQaz(0x58)](ZFrQaz(0x57), [ZFrQaz(0xb8)])]()[hjcuHd(0xe)] == ZFrQaz(0xc0))
         !(j3qtt3[hjcuHd(ZFrQaz(0xb1))] = hjcuHd(0xce),
         GM_xmlhttpRequest({
             [hjcuHd(trHY17b(0x82))]: hjcuHd.call(ZFrQaz(0x57), 0xa8),
